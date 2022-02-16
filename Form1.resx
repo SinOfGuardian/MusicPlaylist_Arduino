@@ -1357,7 +1357,7 @@
     <value>18</value>
   </data>
   <data name="play.Text" xml:space="preserve">
-    <value>Play/Stop</value>
+    <value>Stop</value>
   </data>
   <data name="&gt;&gt;play.Name" xml:space="preserve">
     <value>play</value>
