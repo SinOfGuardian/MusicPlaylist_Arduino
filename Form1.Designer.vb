@@ -186,8 +186,8 @@ Partial Class Form1
         resources.ApplyResources(Me.play, "play")
         Me.play.CheckedState.Parent = Me.play
         Me.play.CustomImages.Parent = Me.play
-        Me.play.FillColor = System.Drawing.Color.FromArgb(CType(CType(157, Byte), Integer), CType(CType(80, Byte), Integer), CType(CType(187, Byte), Integer))
-        Me.play.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(110, Byte), Integer), CType(CType(72, Byte), Integer), CType(CType(170, Byte), Integer))
+        Me.play.FillColor = System.Drawing.Color.DeepSkyBlue
+        Me.play.FillColor2 = System.Drawing.Color.DeepSkyBlue
         Me.play.ForeColor = System.Drawing.Color.White
         Me.play.HoverState.FillColor = System.Drawing.Color.Purple
         Me.play.HoverState.Parent = Me.play
@@ -223,7 +223,7 @@ Partial Class Form1
         Me.Guna2GradientButton2.CheckedState.Parent = Me.Guna2GradientButton2
         Me.Guna2GradientButton2.CustomImages.Parent = Me.Guna2GradientButton2
         Me.Guna2GradientButton2.FillColor = System.Drawing.Color.FromArgb(CType(CType(157, Byte), Integer), CType(CType(80, Byte), Integer), CType(CType(187, Byte), Integer))
-        Me.Guna2GradientButton2.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(110, Byte), Integer), CType(CType(72, Byte), Integer), CType(CType(170, Byte), Integer))
+        Me.Guna2GradientButton2.FillColor2 = System.Drawing.Color.DeepSkyBlue
         Me.Guna2GradientButton2.ForeColor = System.Drawing.Color.White
         Me.Guna2GradientButton2.HoverState.FillColor = System.Drawing.Color.Purple
         Me.Guna2GradientButton2.HoverState.Parent = Me.Guna2GradientButton2
@@ -237,7 +237,7 @@ Partial Class Form1
         Me.Guna2GradientButton1.CheckedState.Parent = Me.Guna2GradientButton1
         Me.Guna2GradientButton1.CustomImages.Parent = Me.Guna2GradientButton1
         Me.Guna2GradientButton1.DialogResult = System.Windows.Forms.DialogResult.Cancel
-        Me.Guna2GradientButton1.FillColor = System.Drawing.Color.FromArgb(CType(CType(157, Byte), Integer), CType(CType(80, Byte), Integer), CType(CType(187, Byte), Integer))
+        Me.Guna2GradientButton1.FillColor = System.Drawing.Color.DeepSkyBlue
         Me.Guna2GradientButton1.FillColor2 = System.Drawing.Color.FromArgb(CType(CType(110, Byte), Integer), CType(CType(72, Byte), Integer), CType(CType(170, Byte), Integer))
         Me.Guna2GradientButton1.ForeColor = System.Drawing.Color.White
         Me.Guna2GradientButton1.HoverState.FillColor = System.Drawing.Color.Purple
