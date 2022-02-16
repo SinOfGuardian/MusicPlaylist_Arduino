@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Arduino1, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3162,5): error MSB3821: Couldn't process file Form1.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
