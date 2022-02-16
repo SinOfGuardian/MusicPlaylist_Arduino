@@ -100,6 +100,8 @@ Public Class Form1
         If Label1.Text = title1.Text Then
             Label1.Text = title2.Text
             artist.Text = artist2.Text
+            Guna2Panel1.BackgroundImage = My.Resources.StarWars
+            Guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch
             SerialPort1.Open()
             SerialPort1.Write("2")
             SerialPort1.Close()
@@ -107,6 +109,8 @@ Public Class Form1
         ElseIf Label1.Text = title2.Text Then
             Label1.Text = title3.Text
             artist.Text = artist3.Text
+            Guna2Panel1.BackgroundImage = My.Resources.Coffindance
+            Guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch
             SerialPort1.Open()
             SerialPort1.Write("3")
             SerialPort1.Close()
@@ -114,6 +118,8 @@ Public Class Form1
         ElseIf Label1.Text = title3.Text Then
             Label1.Text = title1.Text
             artist.Text = artist1.Text
+            Guna2Panel1.BackgroundImage = My.Resources.rickroll_4k
+            Guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch
             SerialPort1.Open()
             SerialPort1.Write("1")
             SerialPort1.Close()
@@ -126,6 +132,8 @@ Public Class Form1
         If Label1.Text = title1.Text Then
             Label1.Text = title3.Text
             artist.Text = artist3.Text
+            Guna2Panel1.BackgroundImage = My.Resources.Coffindance
+            Guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch
             SerialPort1.Open()
             SerialPort1.Write("3")
             SerialPort1.Close()
@@ -133,6 +141,8 @@ Public Class Form1
         ElseIf Label1.Text = title3.Text Then
             Label1.Text = title2.Text
             artist.Text = artist2.Text
+            Guna2Panel1.BackgroundImage = My.Resources.StarWars
+            Guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch
             SerialPort1.Open()
             SerialPort1.Write("2")
             SerialPort1.Close()
@@ -140,6 +150,8 @@ Public Class Form1
         ElseIf Label1.Text = title2.Text Then
             Label1.Text = title1.Text
             artist.Text = artist1.Text
+            Guna2Panel1.BackgroundImage = My.Resources.rickroll_4k
+            Guna2Panel1.BackgroundImageLayout = ImageLayout.Stretch
             SerialPort1.Open()
             SerialPort1.Write("1")
             SerialPort1.Close()
